@@ -1,7 +1,0 @@
-\contentsline {chapter}{\numberline {第1章\hspace {.3em}}章标题}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}一级节标题}{1}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}二级节标题}{1}{subsection.1.1.1}%
-\contentsline {chapter}{致谢}{2}{chapter*.5}%
-\contentsline {chapter}{参考文献}{3}{chapter*.7}%
-\contentsline {chapter}{攻读学位期间的研究成果}{4}{appendix*.8}%
-\contentsfinish 
