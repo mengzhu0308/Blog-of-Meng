@@ -5,3 +5,6 @@
 
 # 关于打赏
 您的打赏，是对我原创的最大鼓舞！
+
+# 新博客地址
+https://www.zhihu.com/people/mengzhu0308
